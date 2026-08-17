@@ -4,6 +4,15 @@ QA Test Documentation – E-commerce Application
 
 This project demonstrates a QA testing process for a fictional e-commerce web application.
 
+## Portfolio Project Disclaimer
+
+This is a fictional portfolio project created for educational and professional development purposes.
+
+The application, test data, test execution results and reported defects are simulated and do not represent testing performed on a real production system.
+
+The project is intended to demonstrate practical knowledge of software testing methodologies, test documentation, defect reporting and QA best practices.
+
+
 The purpose of the project is to demonstrate practical knowledge of software testing, test documentation, defect reporting and QA methodologies.
 
 ## Testing Scope
